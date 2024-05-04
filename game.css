@@ -34,3 +34,9 @@ padding: 10px;
 float: none;
 text-align: left;
 }
+#send_button
+{
+	width: 80%;
+	font-size: 12px;
+	font-family: 'Courier New', Courier, monospace;
+}
